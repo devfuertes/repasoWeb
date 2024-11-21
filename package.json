@@ -1,0 +1,12 @@
+{
+  "name": "repasoweb",
+  "version": "1.0.0",
+  "description": "Este repositorio va a ser anárquico. Se va a utilizar para ideas, repaso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
